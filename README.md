@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Myself Mathew, from India 🇮🇳..
+Myself Mathew, from India :india:..
 - 🌱 I’m currently learning python 🐍
 - 💬 Ask me about computers, maths 💻
 - ⏲️ I try to stay as optimized as possible ⏩
