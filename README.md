@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mathew,<br>- 🌱 Currently learning Java.<br>- 🏆 Smart India Hackathon 2024 Finalist<br>- ➡️ First GitHub Commit: Oct 26, 2020
+I'm Mathew,<br>- 🌱 Currently building [Byte](https://byteapp.tech).<br>- 🏆 Smart India Hackathon 2024 Finalist<br>- ➡️ First GitHub Commit: Oct 26, 2020
 
 
 ## 🌐 Socials:
